@@ -1,4 +1,6 @@
-# Project Capable
+# Project CCC
+
+**Calm, confident, and capable in the face of any scenario.**
 
 An AI skill file that teaches disaster and emergency preparedness from zero to top-1% ready.
 
