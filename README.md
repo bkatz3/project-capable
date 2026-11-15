@@ -2,17 +2,22 @@
 
 **Calm, confident, and capable in the face of any scenario.**
 
-An AI skill file that teaches disaster and emergency preparedness from zero to top-1% ready.
+An AI skill that teaches disaster and emergency preparedness from zero to top-1% ready.
 
-Give the file to your AI assistant and it becomes a tutor. It walks you through 14 domains with interactive lessons, Socratic questioning, and a readiness checklist, at your pace.
+Give the files to your AI assistant and it becomes a tutor. It walks you through 14 domains with interactive lessons, Socratic questioning, and a readiness checklist, at your pace.
 
 ## How to use it
 
-**Claude:** add `disaster-preparedness-tutor/SKILL.md` as a skill, then say "teach me preparedness".
+**Claude:** add the `disaster-preparedness-tutor/` folder as a skill, then say "teach me preparedness".
 
-**Any other AI assistant:** paste the contents of `SKILL.md` into a new conversation and say "teach me preparedness".
+**Any other AI assistant:** paste the contents of `SKILL.md` and `references/curriculum.md` into a new conversation and say "teach me preparedness".
 
 At the end of each session, say "save state" and keep the block it gives you. Start the next session with "resume from:" followed by that block.
+
+## Files
+
+- `disaster-preparedness-tutor/SKILL.md` - how the tutor teaches: onboarding, setup, module phases, levels, evaluation, tiers, commands.
+- `disaster-preparedness-tutor/references/curriculum.md` - what it teaches: the 14 domains and their subskills, the default path, and the readiness checklist items by tier.
 
 ## What it covers
 
